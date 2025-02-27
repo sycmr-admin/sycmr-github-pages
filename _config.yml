@@ -9,8 +9,8 @@ theme: minima
 
 # Header image settings
 header:
-  image: "/SYCMR_Logo_word_Clearance_cropped.jpg"  # Path to the first title image in the root directory
-  image_alt: "Image 001 as the header"
+  image: "/docs/assets/images/SYCMR_Logo_word_Clearance_cropped.jpg"  # Path to the first title image in the root directory
+  #image_alt: "Image 001 as the header"
   #image2: "/image002.jpg"  # Path to the second title image in the root directory
   #image2_alt: "Image 002 as the header"
 
