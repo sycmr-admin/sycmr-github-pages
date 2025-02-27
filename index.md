@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+SYCMR Technical LLC: Pardon Our Digital Detritus
 ---
 
