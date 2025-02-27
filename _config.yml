@@ -1,1 +1,39 @@
+# Site settings
+title: "SYCMR Technical LLC"
+description: "SYCMR is your trusted partner through every phase of the innovation journey"
+url: "https://www.sycmr.com" # Replace with your site's URL
+baseurl: "" # Leave empty if your site is at the root, otherwise specify a path (e.g., /blog)
+
+# Minima theme settings
 theme: minima
+
+# Header image settings
+header:
+  image: "/image001.jpg"  # Path to the first title image in the root directory
+  image_alt: "Image 001 as the header"
+  image2: "/image002.jpg"  # Path to the second title image in the root directory
+  image2_alt: "Image 002 as the header"
+
+# Navigation links
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+
+# Enable Markdown features
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Build settings
+exclude:
+  - README.md
+  - LICENSE.txt
